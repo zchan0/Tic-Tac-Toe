@@ -2,7 +2,7 @@ CC      = g++
 C       = cpp
 H       = h
 
-CFLAGS  = -g -Wall -Weffc++ -Wextra -pedantic
+CFLAGS  = -g -Wall -Wextra -pedantic
 #LDFLAGS = -lm
 
 HFILES  = model/Player.${H} model/Board.${H}
